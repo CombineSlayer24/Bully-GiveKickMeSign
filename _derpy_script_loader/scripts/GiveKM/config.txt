@@ -1,0 +1,5 @@
+# Include the script to run
+main_script givekm.lua
+
+# Key binding for giving the Kick Me Sign
+give_kick_key T
